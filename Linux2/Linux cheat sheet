@@ -1,8 +1,20 @@
-curl
-ping
-netstat
-mount
-ifgonfig
-wget
-sort
-iptables
+curl | check wether Url is alive or not
+ping | it will say are we able to reach website/url
+netstat | It will shows the network status
+mount | helps to attach the extra hard disk
+ifgonfig | tells the configuration of working system
+wget | helps to download files from internet
+sort | helps to sort the files according to requirement
+iptables | it will allows user to access for that particular IP's
+chmod | gives permissions for the files
+top | it will show all running process
+ps | it will show active processor with the processor id and all details
+Kill | it helps to kill the particular processor id
+nslookup | shows the ip for the websites
+stat | properties of file
+nano | used to edit file
+tar/untar | compress and uncompress files
+uptime | how much time our system is up
+dig | similar to nslookup
+nproc | shows how many cpus in the system
+du, free, man, ssh, service, alias, tcpdump, env, softlink, sftp ------------> i have no clarity 
