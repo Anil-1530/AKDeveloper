@@ -1,0 +1,6 @@
+sed 
+grep
+awk
+traceroute
+systemctl
+journalctl
