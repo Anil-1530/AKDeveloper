@@ -1,6 +1,20 @@
-sed 
-grep
-awk
-traceroute
-systemctl
-journalctl
+sed | it helps to print or replace particular data in file
+grep | identify particular data which was same in different files
+awk | helps to print data from different lines
+traceroute | trace Ip address
+systemctl | helps to start or stop services
+journalctl | helps to check the logs
+lscpu | Details of CPU
+Yum | helps to install the software
+Ctrl + G | cursor goes to endpoint of file
+head/tail | print starting and ending lines of file
+finger | tells the details of specific user
+chmod | change the permissions of file
+mv | rename the file
+ctrl + Z | to stop command -------  ctrl + u | erase current lines
+export | used to transfer data
+sleep | pauses for give time
+any command --help | gives uses of that command
+bg | moves a suspended job to background
+fg | brings from back to foreground
+chown | change the ownership for the file
